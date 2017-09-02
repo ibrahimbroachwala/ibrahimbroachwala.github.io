@@ -10,7 +10,6 @@ nav {
 .thin-text {
 	font-weight: 200;
 	padding: 20px;
-	border-radius: 10px;
 
 }
 .parallax-container {
@@ -27,8 +26,6 @@ nav {
 	-webkit-animation-duration: 0.3s;
 }
 
-
-
 .name {
 	margin-top: 150px;
 	width: 1200px;
@@ -38,6 +35,18 @@ nav {
 	-webkit-animation-duration: 0.5s;
 	-webkit-animation-delay: 1s;
 }
+
+.desc {
+	margin-left: 50px;
+	margin-top: -80px;
+	width: 1200px;
+	margin-bottom: 50px;
+	color: #f5f5f5;
+	font-size: 150%;
+	-webkit-animation-duration: 0.5s;
+	-webkit-animation-delay: 1.5s;
+}
+
 .side-nav li a {
 	color: #00acc1 ;
 }
