@@ -14,7 +14,7 @@ nav {
 
 }
 .parallax-container {
-	height: 350px;
+	height: 400px;
 }
 
 .dp {
@@ -25,7 +25,6 @@ nav {
 
 .nav-but1 {
 	-webkit-animation-duration: 0.3s;
-
 }
 
 
@@ -39,11 +38,14 @@ nav {
 	-webkit-animation-duration: 0.5s;
 	-webkit-animation-delay: 1s;
 }
+.side-nav li a {
+	color: #00acc1 ;
+}
 
-nav a:hover {
-	text-decoration: none;
+.side-nav li a:hover {
 	color: #f5f5f5;
 }
+
 .side-nav {
 	background: #455a64 ;
 }
@@ -61,7 +63,15 @@ nav a:hover {
    header, main, footer {
         padding-left: 0;
      }
+
+   nav {
+   	height: 76px;
+
    }
+
+}
+
+
 
 
 
