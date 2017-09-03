@@ -17,14 +17,10 @@ nav {
 }
 
 .dp {
-	width: 175px;
-	height: 175px;
-	margin-top: -80px;
+	width: 145px;
+	height: 145px;
 }
 
-.nav-but1 {
-	-webkit-animation-duration: 0.3s;
-}
 
 .name {
 	margin-top: 150px;
@@ -59,8 +55,33 @@ nav {
 	background: #455a64 ;
 }
 
+.follow-me {
+	width: 100%;
+	text-align: center;
+}
+.follow-item {
+	width: 25%;
+	float: left;
+	color: #f5f5f5;
+}
+.follow-item:hover {
+	color: #00acc1;
+	background: #455a64 ;
+}
+
+.play-but:hover {
+	height: 28px;
+	width: 24px;
+	background: url("assets/img/play_white.png") no-repeat;
+	display: inline-block;
+}
+
 .heading {
 	font-size: 40px;
+}
+
+.about-div, .projects-div, .contact-div, .blog-div {
+	height: 400px;
 }
 
 

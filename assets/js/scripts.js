@@ -9,6 +9,10 @@ $.fn.extend({
 });
 
 $(document).ready(function(){
+    $('.scrollspy').scrollSpy({'scrollOffset': 100});
+  });
+
+$(document).ready(function(){
 
 	$('.parallax').parallax();
     $(".button-collapse").sideNav({
@@ -16,21 +20,5 @@ $(document).ready(function(){
       	draggable: true,	
   	});
 
-     $('.nav-but1').hover(
-     	function(){
- 			$('nav-but1').animateCss('jackInTheBox');
-     	});
-     $('.nav-but2').hover(
-     	function(){
- 			$('nav-but2').animateCss('jackInTheBox');
-     	});
-     $('.nav-but3').hover(
-     	function(){
- 			$('nav-but3').animateCss('jackInTheBox');
-     	});
-     $('.nav-but4').hover(
-     	function(){
- 			$('nav-but4').animateCss('jackInTheBox');
-     	});
 
 });
