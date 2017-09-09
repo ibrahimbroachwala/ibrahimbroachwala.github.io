@@ -7,6 +7,9 @@ nav {
 	height: 0px;
 }
 
+#nav-name {
+	display: none;
+}
 .thin-text {
 	font-weight: 200;
 	padding: 10px;
@@ -119,7 +122,12 @@ nav {
 
    nav {
 	   	height: 56px;
-	  	position: absolute;
+	  	position: fixed;
+	  	z-index: 999;
+   }
+
+   #nav-name {
+   		display: block;
    }
 
    .about-card, .card-content {

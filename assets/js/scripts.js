@@ -13,7 +13,7 @@ $.fn.extend({
 $(document).ready(function(){
 
 
-	$('.scrollspy').scrollSpy({'scrollOffset': 100});
+	$('.scrollspy').scrollSpy({'scrollOffset': 150});
 	$('.parallax').parallax();
     $(".button-collapse").sideNav({
       	menuWidth: 200,
