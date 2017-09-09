@@ -7,13 +7,13 @@ $.fn.extend({
         return this;
     }
 });
+ 
+
 
 $(document).ready(function(){
-    $('.scrollspy').scrollSpy({'scrollOffset': 100});
-  });
 
-$(document).ready(function(){
 
+	$('.scrollspy').scrollSpy({'scrollOffset': 100});
 	$('.parallax').parallax();
     $(".button-collapse").sideNav({
       	menuWidth: 200,
