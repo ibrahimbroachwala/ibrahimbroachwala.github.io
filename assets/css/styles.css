@@ -25,14 +25,14 @@ nav {
 }
 
 
-.name {
+.quote {
 	margin-top: 150px;
-	width: 1200px;
+	width: 600px;
 	color: #f5f5f5 ;
-	font-size: 250%;
+	font-size: 180%;
 	margin-bottom: 50px;
 	-webkit-animation-duration: 0.5s;
-	-webkit-animation-delay: 1s;
+	-webkit-animation-delay: 0.5s;
 }
 
 .desc {
@@ -43,7 +43,7 @@ nav {
 	color: #f5f5f5;
 	font-size: 150%;
 	-webkit-animation-duration: 0.5s;
-	-webkit-animation-delay: 1.5s;
+	-webkit-animation-delay: 0.5s;
 }
 
 .side-nav li a {
