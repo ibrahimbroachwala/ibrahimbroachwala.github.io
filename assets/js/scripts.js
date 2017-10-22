@@ -21,5 +21,18 @@ $(document).ready(function(){
       	draggable: true,	
   	});
 
+ 
+
+	$('.percentcircle').percentcircle({
+		animate : true,
+		diameter : 100,
+		guage: 10,
+		coverBg: '#0097a7',
+		fillcolor: '#043023',
+		percentSize: '25px',
+		percentWeight: 'normal',
+	});
+
+
 
 });
