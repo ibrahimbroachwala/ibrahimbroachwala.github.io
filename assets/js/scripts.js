@@ -7,11 +7,9 @@ $.fn.extend({
         return this;
     }
 });
-
-
 $(document).ready(function(){
 
-  jQuery('#loading').fadeOut(3000);
+  jQuery('#loading').fadeOut(1000);
 
 	$('.scrollspy').scrollSpy({'scrollOffset': 150});
 	$('.parallax').parallax();
