@@ -11,6 +11,8 @@ $.fn.extend({
 
 $(document).ready(function(){
 
+  jQuery('#loading').fadeOut(3000);
+
 	$('.scrollspy').scrollSpy({'scrollOffset': 150});
 	$('.parallax').parallax();
     $(".button-collapse").sideNav({
