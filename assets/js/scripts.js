@@ -7,21 +7,17 @@ $.fn.extend({
         return this;
     }
 });
- 
 
 
 $(document).ready(function(){
-
 
 	$('.scrollspy').scrollSpy({'scrollOffset': 150});
 	$('.parallax').parallax();
     $(".button-collapse").sideNav({
       	menuWidth: 200,
       	closeOnClick: true,
-      	draggable: true,	
+      	draggable: true,
   	});
-
- 
 
 	$('.percentcircle').percentcircle({
 		animate : true,
