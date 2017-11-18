@@ -1,13 +1,13 @@
 (function($){
- 	$.fn.extend({  		
+ 	$.fn.extend({
 	    //pass the options variable to the function
 		percentcircle: function(options) {
 		//Set the default values, use comma to separate the settings, example:
 			var defaults = {
 			        animate : true,
-					diameter : 150,
+					diameter : 140,
 					guage: 2,
-					coverBg: '#0097a7',
+					coverBg: '#00bcd4',
 					bgColor: '#efefef',
 					fillColor: '#455a64',
 					percentSize: '20px',
@@ -48,10 +48,10 @@
 					    'color': defaults.fillColor
                     }
 				};
-			
+
 			var that = this,
-					template = '<div><div class="ab"><div class="cir"><span class="perc">{{percentage}}</span></div></div></div>',					
-					options =  $.extend(defaults, options)					
+					template = '<div><div class="ab"><div class="cir"><span class="perc">{{percentage}}</span></div></div></div>',
+					options =  $.extend(defaults, options)
 
 			function init(){
 				that.each(function(){
@@ -63,10 +63,10 @@
 						$chart = $(template.replace('{{percentage}}',perc+'%'));
 						//set all of the css properties forthe chart
 						$chart.css(styles.cirContainer).find('.ab').css(styles.cir).find('.cir').css(styles.cirCover).find('.perc').css(styles.percent);
-					
+
 					$this.append($chart); //add the chart back to the target element
 					setTimeout(function(){
-						animateChart(deg,parseInt(stop),$chart.find('.ab')); //both values set to the same value to keep the function from looping and animating	
+						animateChart(deg,parseInt(stop),$chart.find('.ab')); //both values set to the same value to keep the function from looping and animating
 					},250)
 	   	    	});
 			}
@@ -84,10 +84,10 @@
 						animateChart(stop,curr,$elm);
 					},1);
 				}
-			};			
-			
+			};
+
 			init(); //kick off the goodness
    	    }
 	});
-	
+
 })(jQuery);

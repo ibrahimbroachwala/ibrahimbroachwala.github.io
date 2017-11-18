@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 	$('.percentcircle').percentcircle({
 		animate : true,
-		diameter : 100,
+		diameter : 80,
 		guage: 10,
 		coverBg: '#0097a7',
 		fillcolor: '#043023',

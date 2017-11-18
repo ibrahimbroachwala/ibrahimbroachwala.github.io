@@ -7,6 +7,8 @@
 	<meta name="viewport" content="width=device-width, initial-scaled=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie-edge">
 
+
+
 	<!-- Compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
  	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -25,11 +27,13 @@
 <!-- Navigation section -->
 <header>
 
-	<nav class="cyan darken-2">
+	<nav class="cyan darken-3">
 
 
-    	<img src="assets/img/logo.png" style="height: 52px; width: 110px;" id="nav-name" class="brand-logo">
-      	<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons"></i></a>
+    	<!-- <img src="assets/img/logo.png" style="height: 52px; width: 110px;" id="nav-name" class="brand-logo"> -->
+			<span class="thin-text brand-logo" style="font-size:130%; margin: auto;" id="nav-name">Ibrahim Broachwala</span>
+      	<!-- <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons"></i></a> -->
+				<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 
       	<ul class="side-nav fixed blue-grey darken-2" id="mobile-demo">
         	<li>
@@ -40,7 +44,7 @@
 
     			</div>
 
-    			<div class="follow-me">
+    				<div class="follow-me">
 
       				<a target="_blank" href="https://github.com/ibrahimbroachwala" class="follow-item"><i title="ibrahimbroachwala" class="fa fa-github-alt"></i></a>
       				<a target="_blank" href="https://www.linkedin.com/in/ibrahim-broachwala-320990114/" class="follow-item"><i title="Ibrahim Broachwala" class="fa fa-linkedin "></i></a>
@@ -78,10 +82,10 @@
 </header>
 <main>
 
-
 <!-- About Section -->
-<div class="about-div">
-	<section >
+<div class="divider"></div>
+<div class="about-div cyan darken-1" style="margin-top: -27px;">
+	<section>
 		<h2 class="thin-text heading">About me</h2>
 		<div class="col s12 m9 l10">
 			<div id="about" class="section scrollspy">
@@ -104,15 +108,17 @@
 </div>
 
 <!-- Skills Section -->
-<div class="divider"></div>
-<div class="skills-div">
+<div class="divider" ></div>
+<div class="skills-div cyan" style="margin-top: -27px;">
 	<section>
 		<h2 class="thin-text heading">Skills</h2>
 
 		<div class="col s12 m9 l10">
       		<div id="skills" class="section scrollspy">
 
-        		<div class="percentcircle" data-percent="75"><span class="thin-text skill-text">Python</span></div>
+
+
+						<div class="percentcircle" data-percent="75"><span class="thin-text skill-text">Python</span></div>
         		<div class="percentcircle" data-percent="65"><span class="thin-text skill-text">HTML</span></div>
         		<div class="percentcircle" data-percent="70"><span class="thin-text skill-text">CSS</span></div>
         		<div class="percentcircle" data-percent="75"><span class="thin-text skill-text">Java</span></div>
@@ -128,33 +134,71 @@
 
 <!-- Projects Section -->
 <div class="divider"></div>
-<div class="projects-div">
+<div class="projects-div cyan lighten-1" style="margin-top: -28px;">
 	<section>
 		<h2 class="thin-text heading">Projects</h2>
 
 		<div class="col s12 m9 l10">
       		<div id="projects" class="section scrollspy">
-        		<p>Content </p>
+						<div class="row">
+
+
+							<!--CARD-->
+							<div class="row">
+								<div class="col s12 m7">
+									<div class="card">
+										<div class="card-image">
+											<img src="assets/img/socio.png">
+
+										</div>
+										<div class="card-content">
+											<p>A complete social app for chatting and sharing moments for likes and comments.Developed using Firebase as a Backend.</p>
+										</div>
+										<div class="card-action">
+											<a href="https://play.google.com/store/apps/details?id=myapp.chatapp.ib.socio"><img class="play-but" style="display: inline-block; height: 20px; width: 17px;" src="assets/img/play.png"></a>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+						  </div>
       		</div>
       	</div>
 	</section>
 </div>
 
-<!-- Contact Section -->
-<div class="divider"></div>
-<div class="contact-div">
-	<section>
-		<h2 class="thin-text heading">Contact</h2>
-
-		<div class="col s12 m9 l10">
-      		<div id="contact" class="section scrollspy">
-        		<p>Content </p>
-      		</div>
-      	</div>
-	</section>
-</div>
 </main>
-<footer>
+<footer class="blue-grey darken-2">
+	<div class="container">
+            <div class="row">
+              <div class="col l12 s12" style="margin: auto;">
+								<br>
+                <h5 class="white-text center">Ibrahim Broachwala</h5>
+								<br>
+								<h6 class="white-text center">ibrahimkb96@gmail.com</h6>
+								<br>
+              </div>
+              <div class="col l12 s12">
+
+								<div class="follow-me-foot">
+
+		      				<a target="_blank" href="https://github.com/ibrahimbroachwala" class="follow-item-foot"><i title="ibrahimbroachwala" class="fa fa-github-alt"></i></a>
+		      				<a target="_blank" href="https://www.linkedin.com/in/ibrahim-broachwala-320990114/" class="follow-item-foot"><i title="Ibrahim Broachwala" class="fa fa-linkedin "></i></a>
+		      				<a target="_blank" href="https://play.google.com/store/apps/developer?id=Ibrahim+Broachwala" class="follow-item-foot"><img class="play-but" style="display: inline-block; height: 20px; width: 17px;" src="assets/img/play.png"></a>
+		      				<a target="_blank" href="https://www.instagram.com/ib_c137/?hl=en" class="follow-item-foot"><i title="ib_c137" class="fa fa-instagram"></i></a>
+		      				<a target="_blank" href="https://www.facebook.com/ibrahim.broachwala" class="follow-item-foot"><i title="Ibrahim Broachwala" class="fa fa-facebook "></i></a>
+		      			</div>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container center white-text">
+            © 2017 Ibrahim Broachwala
+            </div>
+          </div>
+
+
 
 
 
