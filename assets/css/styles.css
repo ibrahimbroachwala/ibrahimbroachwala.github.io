@@ -149,9 +149,22 @@ nav {
 	color: #000;
 }
 
+
+.clients-card {
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+
+.client-logo {
+	margin: 8px;
+}
+
  header, main, footer {
       padding-left: 200px;
     }
+
+
 
 @media only screen and (max-width : 992px) {
    header, main, footer {
@@ -196,8 +209,16 @@ nav {
 
    }
 
+   .clients-card {
+	width: 95%;
+	margin: auto;
+	text-align: center;
+}
+
    .percentcircle {
    		width: 49%;
    		margin: auto;
    }
+
+
 }
