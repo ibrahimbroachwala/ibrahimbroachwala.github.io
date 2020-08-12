@@ -22,13 +22,13 @@ const RESOURCES = {
 "assets/fonts/Poppins-Medium.ttf": "f61a4eb27371b7453bf5b12ab3648b9e",
 "assets/fonts/Poppins-Regular.ttf": "8b6af8e5e8324edfd77af8b3b35d7f9c",
 "assets/fonts/Poppins-SemiBold.ttf": "4cdacb8f89d588d69e8570edcbe49507",
-"assets/NOTICES": "74dbf621364c29f8bda9144f1b97b8b5",
+"assets/NOTICES": "124453b165a05715a2ea03ec8442e4e8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "2def70cdfb9efbc99017bc85e0c5e804",
 "/": "2def70cdfb9efbc99017bc85e0c5e804",
-"main.dart.js": "d71c6e0aadeeb114f80a3b3675de16e9",
+"main.dart.js": "72fea299ad34641d047bf2b5f70feeb0",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210"
 };
 
