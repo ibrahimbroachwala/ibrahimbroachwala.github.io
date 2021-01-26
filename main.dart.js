@@ -51627,7 +51627,7 @@ s=K.b9(b).a3
 r=s.f
 q=s.e
 p=t.X
-return M.d2(o,T.j_(H.c([U.es("assets/images/photo.png",o,m*0.4),T.aO(o,10,o),T.aO(o,20,o),L.bg("hi \ud83d\udc4b, my name is",o,r.fb(C.j,20),o),L.bg("ibrahim broachwala",o,s.c.fb(C.aQ,24),o),T.aO(o,30,o),L.bg("i design and code",o,s.b.fb(C.j,32),o),new L.p8(o),T.aO(o,30,o),L.bg("lets discuss your app idea!",o,r.cf(20),o),T.aO(o,20,o),D.a7z(C.aQ,12,L.yG(C.pd,o,o),L.bg("get in touch",o,q.cf(16),o),this.c,C.v9,new X.bx(K.dx(90),C.k),C.j),T.aO(o,16,o),D.QU(o,!1,T.d5(H.c([U.es("assets/images/upwork.png",18,o),T.aO(o,o,8),L.bg("hire me on upwork",o,q.cf(16),o)],p),C.P,C.az,C.fL,o),C.t,P.aV(255,111,218,68),o,o,o,o,12,o,o,o,o,o,o,o,o,o,o,o,o,this.d,C.hw,new X.bx(K.dx(90),C.k),o,C.j,o,o),M.d2(o,U.es("assets/images/illustration_mobile_dark.png",n.a.b*0.5,m*0.8),o,o,o,o,new V.aG(0,32,0,0),o)],p),C.bO,C.az,C.N),o,o,o,o,new V.aG(32,16,32,16),o)}}
+return M.d2(o,T.j_(H.c([U.es("assets/images/photo.png",o,m*0.4),T.aO(o,10,o),T.aO(o,20,o),L.bg("hi \ud83d\udc4b, my name is",o,r.fb(C.j,20),o),L.bg("ibrahim broachwala",o,s.c.fb(C.aQ,24),o),T.aO(o,30,o),L.bg("i design and code",o,s.b.fb(C.j,26),o),new L.p8(o),T.aO(o,30,o),L.bg("lets discuss your app idea!",o,r.cf(20),o),T.aO(o,20,o),D.a7z(C.aQ,12,L.yG(C.pd,o,o),L.bg("get in touch",o,q.cf(16),o),this.c,C.v9,new X.bx(K.dx(90),C.k),C.j),T.aO(o,16,o),D.QU(o,!1,T.d5(H.c([U.es("assets/images/upwork.png",18,o),T.aO(o,o,8),L.bg("hire me on upwork",o,q.cf(16),o)],p),C.P,C.az,C.fL,o),C.t,P.aV(255,111,218,68),o,o,o,o,12,o,o,o,o,o,o,o,o,o,o,o,o,this.d,C.hw,new X.bx(K.dx(90),C.k),o,C.j,o,o),M.d2(o,U.es("assets/images/illustration_mobile_dark.png",n.a.b*0.5,m*0.8),o,o,o,o,new V.aG(0,32,0,0),o)],p),C.bO,C.az,C.N),o,o,o,o,new V.aG(32,16,32,16),o)}}
 Q.zd.prototype={
 H:function(a,b){var s,r,q,p,o,n,m,l=null,k=t.w,j=b.a_(k).f.a.a
 k=b.a_(k).f
@@ -51639,7 +51639,7 @@ p=T.j_(H.c([U.es("assets/images/photo.png",l,j*0.15),T.aO(l,20,l),T.d5(H.c([L.yG
 o=T.aO(l,l,32)
 n=r.cf(24)
 m=s.e
-return T.pw(M.d2(l,T.jK(C.eW,H.c([new T.fH(C.o9,l,l,k,l),new T.fH(C.oa,l,l,M.d2(l,T.d5(H.c([p,o,T.j_(H.c([T.a2N(l,l,C.iC,!0,l,new Q.ha("hi \ud83d\udc4b, my name is ",H.c([new Q.ha("ibrahim broachwala",l,s.c.fb(C.aQ,24))],t.ru),n),C.aL,l,l,1,C.bH),T.aO(l,32,l),L.bg("i design and code",l,s.b.fb(C.j,48),l),new L.p8(l),T.aO(l,32,l),L.bg("lets discuss your app idea!",l,r.cf(24),l),T.aO(l,16,l),D.a7z(C.aQ,12,L.yG(C.pd,l,l),L.bg("get in touch",l,m.cf(16),l),this.c,C.hw,new X.bx(K.dx(90),C.k),C.j),T.aO(l,16,l),D.QU(l,!1,T.d5(H.c([U.es("assets/images/upwork.png",18,l),T.aO(l,l,8),L.bg("hire me on upwork",l,m.cf(16),l)],q),C.P,C.az,C.fL,l),C.t,P.aV(255,111,218,68),l,l,l,l,12,l,l,l,l,l,l,l,l,l,l,l,l,this.d,C.hw,new X.bx(K.dx(90),C.k),l,C.j,l,l)],q),C.bO,C.az,C.N)],q),C.bO,C.az,C.N,l),l,l,l,l,new V.aG(64,64,0,0),l),l)],q),C.ci,l),l,l,l,l,l,j*0.9),l,l)}}
+return T.pw(M.d2(l,T.jK(C.eW,H.c([new T.fH(C.o9,l,l,k,l),new T.fH(C.oa,l,l,M.d2(l,T.d5(H.c([p,o,T.j_(H.c([T.a2N(l,l,C.iC,!0,l,new Q.ha("hi \ud83d\udc4b, my name is ",H.c([new Q.ha("ibrahim broachwala",l,s.c.fb(C.aQ,24))],t.ru),n),C.aL,l,l,1,C.bH),T.aO(l,32,l),L.bg("i design and code",l,s.b.fb(C.j,36),l),new L.p8(l),T.aO(l,32,l),L.bg("lets discuss your app idea!",l,r.cf(24),l),T.aO(l,16,l),D.a7z(C.aQ,12,L.yG(C.pd,l,l),L.bg("get in touch",l,m.cf(16),l),this.c,C.hw,new X.bx(K.dx(90),C.k),C.j),T.aO(l,16,l),D.QU(l,!1,T.d5(H.c([U.es("assets/images/upwork.png",18,l),T.aO(l,l,8),L.bg("hire me on upwork",l,m.cf(16),l)],q),C.P,C.az,C.fL,l),C.t,P.aV(255,111,218,68),l,l,l,l,12,l,l,l,l,l,l,l,l,l,l,l,l,this.d,C.hw,new X.bx(K.dx(90),C.k),l,C.j,l,l)],q),C.bO,C.az,C.N)],q),C.bO,C.az,C.N,l),l,l,l,l,new V.aG(64,64,0,0),l),l)],q),C.ci,l),l,l,l,l,l,j*0.9),l,l)}}
 T.hX.prototype={}
 Z.CP.prototype={
 H:function(a,b){return D.a79(new Z.Wl(),new Z.Wm(),new Z.Wn(),t.E0)}}
@@ -51794,7 +51794,7 @@ $0:function(){return T.kb(this.a.c.x.b)},
 $S:108}
 L.p8.prototype={
 H:function(a,b){var s=K.b9(b).a3
-return new M.tP(H.c(["android apps","flutter apps","ios apps"],t.i),s.b.fb(C.j,48),P.ch(0,80),C.aL,!0,null)}}
+return new M.tP(H.c(["android apps","flutter apps","ios apps"],t.i),s.b.fb(C.j,36),P.ch(0,80),C.aL,!0,null)}}
 F.a1n.prototype={
 $0:function(){return new R.mS(new N.bA(null,t.b9))},
 $C:"$0",
