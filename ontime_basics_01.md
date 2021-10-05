@@ -1,6 +1,6 @@
 # Ontime Health Basics
 
-![banner](https://firebasestorage.googleapis.com/v0/b/cbi-ontime-dev.appspot.com/o/articles%2Fontime_basics%2Fontime_basics_banner.svg?alt=media&token=3fe1ce00-e69b-4ffc-a704-efe9a030e751)
+![banner](https://firebasestorage.googleapis.com/v0/b/cbi-ontime-dev.appspot.com/o/articles%2Fontime_basics%2Fontime_basics_banner.svg?alt=media&token=39eaba31-ded3-4d47-b766-a3e40699ce8a)
 
 ## _Four Resolutions for Better Health_
 
