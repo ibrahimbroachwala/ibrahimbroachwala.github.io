@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "426313f2f3133c2f20415344c4a22df3",
-"index.html": "fe98892d10dae3802a0bc60c3aec3bef",
-"/": "fe98892d10dae3802a0bc60c3aec3bef",
-"main.dart.js": "1557b1c978dcb6f14a130f915cf7bfff",
+  "version.json": "009c9e65172e010890f7f65fde438006",
+"index.html": "38137cf7903c1a09c40686c0b33080d0",
+"/": "38137cf7903c1a09c40686c0b33080d0",
+"main.dart.js": "dfd791866716599c1e865b1de916d370",
 "favicon.png": "1debfe0d917b2cdd410a2156e285ea46",
 "icons/favicon-16x16.png": "6a1208b903763089b580410bd6ce4f80",
 "icons/favicon.ico": "776eedc9a1f9ca34cda6456f5360dc81",
@@ -37,13 +37,13 @@ const RESOURCES = {
 "icons/ms-icon-70x70.png": "46b77a6d511de3838c909159ce3b7772",
 "manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
 "assets/AssetManifest.json": "68dde935fe4e7fc02551b32d5d0c9f78",
-"assets/NOTICES": "f38a7e85f5ad52d9ff232a105af57afa",
+"assets/NOTICES": "b97422460dee0efd576bfdf5f0ee7343",
 "assets/FontManifest.json": "268487b19d6105a548826f37cf0686ab",
 "assets/fonts/Poppins-Light.ttf": "f6ea751e936ade6edcd03a26b8153b4a",
 "assets/fonts/Poppins-Medium.ttf": "f61a4eb27371b7453bf5b12ab3648b9e",
 "assets/fonts/Poppins-ExtraBold.ttf": "544fa4f2678a8285eb88b8dfe503c90c",
 "assets/fonts/Poppins-Regular.ttf": "8b6af8e5e8324edfd77af8b3b35d7f9c",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/fonts/Poppins-Bold.ttf": "a3e0b5f427803a187c1b62c5919196aa",
 "assets/fonts/Poppins-SemiBold.ttf": "4cdacb8f89d588d69e8570edcbe49507",
 "assets/assets/images/bg_illustration.png": "a7f2050164cbd44830c9631876a0d7a3",
@@ -62,8 +62,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
